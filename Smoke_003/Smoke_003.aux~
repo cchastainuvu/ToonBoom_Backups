@@ -24,5 +24,6 @@
  <Element Name="Smoke_002" ID="7" Folder="Smoke_002">
   <Drawing Key="" Name="1" Version="1"/>
   <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
  </Element>
 </SceneVersion>
