@@ -36,7 +36,6 @@
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
-    <dwg name="3"/>
    </drawings>
   </element>
  </elements>
@@ -154,7 +153,6 @@
       </morphSet>
      </morphSeq>
      <elementSeq exposures="10" val="2" id="7"/>
-     <elementSeq exposures="11" val="3" id="7"/>
     </column>
    </columns>
    <options>
