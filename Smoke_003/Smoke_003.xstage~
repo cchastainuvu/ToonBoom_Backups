@@ -94,7 +94,7 @@
     <column type="0" name="ATV-095E4D308F005064" displayOrder="6" width="100" anonymous="true" id="2">
      <elementSeq exposures="1-60" val="1" id="2"/>
     </column>
-    <column type="0" name="ATV-095E4D308F021EC0" displayOrder="5" width="100" anonymous="true" id="4">
+    <column type="0" name="ATV-095E4D308F021EC0" display="false" displayOrder="5" width="100" anonymous="true" id="4">
      <elementSeq exposures="1-60" val="1" id="4"/>
     </column>
     <column type="0" name="ATV-095E4D308F05B6FF" displayOrder="4" width="100" anonymous="true" id="5">
@@ -239,7 +239,7 @@
      <elementSeq exposures="38-39" val="26" id="7"/>
     </column>
     <column type="0" name="ATV-095EBD6156701DBC" displayOrder="1" width="100" anonymous="true" id="8">
-     <elementSeq exposures="1-10" val="1" id="8"/>
+     <elementSeq exposures="1-40" val="1" id="8"/>
     </column>
    </columns>
    <options>
@@ -523,6 +523,7 @@
      </module>
      <module type="READ" name="BaseCharacter" pos="0,0,0" publishUnderTab="Base_001">
       <options>
+       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>

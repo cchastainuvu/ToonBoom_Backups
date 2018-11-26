@@ -239,7 +239,7 @@
      <elementSeq exposures="38-39" val="26" id="7"/>
     </column>
     <column type="0" name="ATV-095EBD6156701DBC" displayOrder="1" width="100" anonymous="true" id="8">
-     <elementSeq exposures="1-39" val="1" id="8"/>
+     <elementSeq exposures="1-40" val="1" id="8"/>
     </column>
    </columns>
    <options>
