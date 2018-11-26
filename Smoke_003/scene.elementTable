@@ -6,4 +6,5 @@
  <element id="5" elementName="MorphingTest" elementFolder="MorphingTest" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="6" elementName="Smoke_001" elementFolder="Smoke_001" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="7" elementName="Smoke_002" elementFolder="Smoke_002" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="8" elementName="Character_001" elementFolder="Character_001" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
