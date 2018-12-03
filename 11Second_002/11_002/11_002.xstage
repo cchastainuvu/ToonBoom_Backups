@@ -187,6 +187,18 @@
     <dwg name="18"/>
     <dwg name="19"/>
     <dwg name="20"/>
+    <dwg name="21"/>
+    <dwg name="22"/>
+    <dwg name="23"/>
+    <dwg name="24"/>
+    <dwg name="25"/>
+    <dwg name="26"/>
+    <dwg name="27"/>
+    <dwg name="28"/>
+    <dwg name="29"/>
+    <dwg name="30"/>
+    <dwg name="31"/>
+    <dwg name="32"/>
    </drawings>
   </element>
  </elements>
@@ -338,6 +350,18 @@
      <elementSeq exposures="18" val="18" id="8"/>
      <elementSeq exposures="19" val="19" id="8"/>
      <elementSeq exposures="20" val="20" id="8"/>
+     <elementSeq exposures="21" val="21" id="8"/>
+     <elementSeq exposures="22" val="22" id="8"/>
+     <elementSeq exposures="23" val="23" id="8"/>
+     <elementSeq exposures="24" val="24" id="8"/>
+     <elementSeq exposures="25" val="25" id="8"/>
+     <elementSeq exposures="26" val="26" id="8"/>
+     <elementSeq exposures="27" val="27" id="8"/>
+     <elementSeq exposures="28" val="28" id="8"/>
+     <elementSeq exposures="29" val="29" id="8"/>
+     <elementSeq exposures="30" val="30" id="8"/>
+     <elementSeq exposures="31" val="31" id="8"/>
+     <elementSeq exposures="32" val="32" id="8"/>
     </column>
    </columns>
    <options>
